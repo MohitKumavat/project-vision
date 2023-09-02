@@ -7,12 +7,3 @@ export default function App() {
     <LoginScreen />
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#eedd',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
